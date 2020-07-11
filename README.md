@@ -2,7 +2,7 @@
 
 <!--
 **amirCodes/amirCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here is my journey as software engineer:
 
 - 🔭 I’m currently working on React Hook
@@ -12,5 +12,5 @@ Here is my journey as software engineer:
 - 💬 Ask me about reactjs, laravel...
 - 📫 How to reach me: amirdanish126@gmail.com 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: ...
+
