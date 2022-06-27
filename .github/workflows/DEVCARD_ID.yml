@@ -1,4 +1,3 @@
-# This is a basic workflow to help you get started with Actions
 name: DevCard
 
 permissions:
@@ -19,4 +18,4 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: ${{ afbc7d7586484979aa813d99fc7903c7 }}
+          devcard_id: ${{ secrets.DEVCARD_ID }}
