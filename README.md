@@ -6,7 +6,7 @@
 Here is my journey as software engineer:
 
 - 🔭 I’m currently working on React HOC
-- 🌱 I’m currently learning Nuxtjs n reactHook
+- 🌱 I’m currently learning Nuextjs n reactHook
 - 👯 I’m looking to collaborate on any project for Fron-end and Nodejs backend 
 - 🤔 I’m looking for help with Redux
 - 💬 Ask me about reactjs, Nodejs...
